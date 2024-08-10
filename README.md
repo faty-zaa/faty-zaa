@@ -6,7 +6,6 @@
 - www.linkedin.com/in/fatima-ezzahra-lamlih-82644822
 - https://www.codingame.com/profile/d64f378735d5bc62543fd426b55568fc1584126
 - https://leetcode.com/u/faty__zaa/
-- https://codeforces.com/profile/Faty-zaa
 - https://www.fiverr.com/fatimaezzahr377?public_mode=true
 - https://www.hackerrank.com/profile/fatyzaa
 - https://www.codechef.com/users/apt_club_31

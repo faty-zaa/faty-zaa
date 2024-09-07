@@ -2,8 +2,8 @@
 👋 Hi, I’m @FATIMA EZZAHRA LAMLIH<br>👀 i'm very pasionnate about coding<br>🌱 I’m currently learning Algorithms , Data structures and C language<br>📫 you can find me here!<br>https://www.codingame.com/profile/d64f378735d5bc62543fd426b55568fc1584126<br>https://leetcode.com/u/faty__zaa/<br>https://www.fiverr.com/fatimaezzahr377?public_mode=true<br>https://www.hackerrank.com/profile/fatyzaa<br>https://www.codechef.com/users/apt_club_31
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/faty zaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faty__zaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatima-ezzahra-lamlih) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/faty_zaa) 
+## 🌐 Social
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faty__zaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatima-ezzahra-lamlih) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/faty_zaa) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)

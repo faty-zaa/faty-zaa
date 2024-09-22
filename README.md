@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @FATIMA EZZAHRA LAMLIH<br>👀 i'm very pasionnate about coding<br>🌱 I’m currently learning Algorithms , Data structures and C language<br>📫 you can find me here!<br>https://www.codingame.com/profile/d64f378735d5bc62543fd426b55568fc1584126<br>https://leetcode.com/u/faty__zaa/<br>https://www.hackerrank.com/profile/fatyzaa<br>https://www.codechef.com/users/apt_club_31
+👋 Hi, I’m @FATIMA EZZAHRA LAMLIH<br>👀 i'm very pasionnate about coding<br>🌱 I’m currently learning Algorithms , Data structures and C language<br>📫 you can find me here!<br>https://www.codingame.com/profile/d64f378735d5bc62543fd426b55568fc1584126<br>https://leetcode.com/u/faty__zaa/<br>https://www.hackerrank.com/profile/fatyzaa
 
 
 ## 🌐 Social

@@ -1,6 +1,6 @@
 # 💫 About Me:
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/falamlih" alt="falamlih's 42 stats" /></a>
-<br>https://www.codingame.com/profile/d64f378735d5bc62543fd426b55568fc1584126<br>https://leetcode.com/u/faty__zaa/<br>https://www.hackerrank.com/profile/fatyzaa
+<br>https://leetcode.com/u/faty__zaa/<br>https://www.hackerrank.com/profile/fatyzaa
 
 
 ## 🌐 Social

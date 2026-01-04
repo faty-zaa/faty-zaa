@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![<falamlih>'s 42 stats](https://badge.mediaplus.ma/<Levi>/<falamlih>)](https://github.com/oakoudad/badge42)
+[![<falamlih>'s 42 stats](https://badge.mediaplus.ma/<levi>/<falamlih>)](https://github.com/oakoudad/badge42)
 <br>https://www.codingame.com/profile/d64f378735d5bc62543fd426b55568fc1584126<br>https://leetcode.com/u/faty__zaa/<br>https://www.hackerrank.com/profile/fatyzaa
 
 

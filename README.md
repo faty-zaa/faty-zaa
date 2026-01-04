@@ -1,54 +1,117 @@
-# 💫 Hi, I'm Fatima Ezzahra!
+<!-- Animated Header -->
+<h1 align="center">
+  ✨ Hi there, I'm <span style="color:#6C63FF;">Fatima Ezzahra</span> ✨
+</h1>
 
-🎓 **42 Network Student**  
-💻 **Problem Solver | Low-Level Programming Enthusiast**  
-🚀 Passionate about algorithms, system programming, and continuous learning.
-
-<a href="https://github.com/oakoudad/badge42">
-  <img src="https://badge.mediaplus.ma/levi/falamlih" alt="falamlih's 42 stats" />
-</a>
-
----
-
-## 🧠 Coding Profiles
-- 🟡 **LeetCode**: [leetcode.com/u/faty__zaa](https://leetcode.com/u/faty__zaa/)
-- 🟢 **HackerRank**: [hackerrank.com/profile/fatyzaa](https://www.hackerrank.com/profile/fatyzaa)
-
----
-
-## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faty__zaa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatima-ezzahra-lamlih)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/faty_zaa)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  weight=500&
+  size=22&
+  duration=2500&
+  pause=800&
+  color=6C63FF&
+  center=true&
+  vCenter=true&
+  width=550&
+  lines=42+Network+Student;Low-Level+Programming+Enthusiast;C+%7C+C%2B%2B+%7C+Shell;Problem+Solver+%26+Algorithm+Lover" />
+</p>
 
 ---
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<!-- 42 Badge -->
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/levi/falamlih" alt="42 stats" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=faty-zaa&show_icons=true&theme=default" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faty-zaa&theme=default" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faty-zaa&layout=compact&theme=default" />
+## 🧠 About Me
+💻 Student at **42 Network**  
+🧩 Passionate about **algorithms, system programming & optimization**  
+🚀 Always learning, always pushing limits  
+☕ Debugging with patience and coffee  
 
 ---
 
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+## ⚡ Coding Platforms
+<p align="center">
+  <a href="https://leetcode.com/u/faty__zaa/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/fatyzaa">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🔝 Top Contributed Repositories
-<img src="https://github-contributor-stats.vercel.app/api?username=faty-zaa&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+## 🌐 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/fatima-ezzahra-lamlih">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://instagram.com/faty__zaa">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com/faty_zaa">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+  </a>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=faty-zaa&icon=5&color=1)](https://visitcount.itsvg.in)
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,git,linux,vim&perline=6" />
+</p>
 
-✨ *Always learning. Always building.*  
+---
+
+## 📊 GitHub in Motion
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faty-zaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faty-zaa&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faty-zaa&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements & Activity
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=faty-zaa&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## ✍️ Dev Wisdom
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+## 🔥 Contribution Power
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=faty-zaa&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=faty-zaa&icon=5&color=6"/>
+</p>
+
+---
+
+<p align="center">
+  🌌 <i>"Code. Break. Learn. Repeat."</i>
+</p>

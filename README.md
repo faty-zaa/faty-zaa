@@ -30,7 +30,7 @@
 
 ## 🧠 About Me
 💻 Student at **42 Network**  
-🧩 Passionate about **algorithms, system programming & optimization**  
+🧩 Passionate about **AI, system administration & data science**  
 🚀 Always learning, always pushing limits  
 ☕ Debugging with patience and coffee  
 

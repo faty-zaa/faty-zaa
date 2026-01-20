@@ -53,12 +53,6 @@
   <a href="https://linkedin.com/in/fatima-ezzahra-lamlih">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://instagram.com/faty__zaa">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://x.com/faty_zaa">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-  </a>
 </p>
 
 ---

@@ -1,111 +1,46 @@
-<!-- Animated Header -->
-<h1 align="center">
-  ✨ Hi there, I'm <span style="color:#6C63FF;">Fatima Ezzahra</span> ✨
-</h1>
+# Getting Started with Create React App
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  weight=500&
-  size=22&
-  duration=2500&
-  pause=800&
-  color=6C63FF&
-  center=true&
-  vCenter=true&
-  width=550&
-  lines=42+Network+Student;Low-Level+Programming+Enthusiast;C+%7C+C%2B%2B+%7C+Shell;Problem+Solver+%26+Algorithm+Lover" />
-</p>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
----
+## Available Scripts
 
-<!-- 42 Badge -->
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/levi/falamlih" alt="42 stats" />
-  </a>
-</p>
+In the project directory, you can run:
 
----
+### `npm start`
 
-## 🧠 About Me
-💻 Student at **42 Network**  
-🧩 Passionate about **AI, system administration & data science**  
-🚀 Always learning, always pushing limits  
-☕ Debugging with patience and coffee  
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
----
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-## ⚡ Coding Platforms
-<p align="center">
-  <a href="https://leetcode.com/u/faty__zaa/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/fatyzaa">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
+### `npm test`
 
----
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## 🌐 Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/in/fatima-ezzahra-lamlih">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+### `npm run build`
 
----
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,git,linux,vim&perline=6" />
-</p>
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
----
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## 📊 GitHub in Motion
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faty-zaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+### `npm run eject`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faty-zaa&theme=tokyonight&hide_border=true"/>
-</p>
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faty-zaa&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
----
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-## 🏆 Achievements & Activity
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faty-zaa&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
----
+## Learn More
 
-## ✍️ Dev Wisdom
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
----
-
-## 🔥 Contribution Power
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=faty-zaa&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=faty-zaa&icon=5&color=6"/>
-</p>
-
----
-
-<p align="center">
-  🌌 <i>"Code. Break. Learn. Repeat."</i>
-</p>
+To learn React, check out the [React documentation](https://reactjs.org/).

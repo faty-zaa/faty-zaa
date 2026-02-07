@@ -64,6 +64,10 @@
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faty-zaa&layout=compact"/>
+
+---
+
 ## 📊 GitHub in Motion
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faty-zaa&show_icons=true&theme=tokyonight&hide_border=true"/>

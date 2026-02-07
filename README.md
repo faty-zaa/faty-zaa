@@ -59,7 +59,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,git,linux,vim&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,python,bash,git,linux,vim&perline=6" />
 </p>
 
 ---

@@ -90,12 +90,7 @@
 
 ---
 
-## ✍️ Dev Wisdom
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
 
----
 
 ## 🔥 Contribution Power
 <p align="center">

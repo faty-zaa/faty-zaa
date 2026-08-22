@@ -68,43 +68,6 @@
 
 ---
 
-## 📊 GitHub in Motion
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faty-zaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faty-zaa&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faty-zaa&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Achievements & Activity
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faty-zaa&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-
-
-## 🔥 Contribution Power
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=faty-zaa&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=faty-zaa&icon=5&color=6"/>
-</p>
-
----
-
 <p align="center">
   🌌 <i>"Code. Break. Learn. Repeat."</i>
 </p>

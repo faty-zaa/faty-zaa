@@ -30,7 +30,7 @@
 
 ## 🧠 About Me
 💻 Student at **42 Network**  
-🧩 Passionate about **AI, data engineering & competitive programming**  
+🧩 Passionate about **AI, Software engineering & competitive programming**  
 🚀 Always learning, always pushing limits  
 ☕ Debugging with patience and coffee  
 

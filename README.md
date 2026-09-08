@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a
-    href="https://www.codingame.com/profile/d64f378735d5bc62543fd426b55568fc1584126">
+    href="https://www.codingame.com/profile/d64f378735d5bc62543fd426b55568fc1584126"><img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download4.png' alt='codingame' height='70'>
   </a>
 </p>
 

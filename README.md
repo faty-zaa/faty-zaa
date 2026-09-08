@@ -44,6 +44,9 @@
   <a href="https://www.hackerrank.com/profile/fatyzaa">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
+  <a
+    href="https://www.codingame.com/profile/d64f378735d5bc62543fd426b55568fc1584126">
+  </a>
 </p>
 
 ---
